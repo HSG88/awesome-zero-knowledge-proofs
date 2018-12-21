@@ -90,6 +90,8 @@ Protocol descriptions:
 - [snarky (Ocaml, from authors of Coda)](https://github.com/o1-labs/snarky)
 - [zokrates (toolbox for zkSNARKs on Ethereum)](https://github.com/Zokrates/ZoKrates)
 - [ethsnarks by HarryR (alternative toolkit for viable zk-SNARKS on Ethereum, Web, Mobile and Desktop)](https://github.com/HarryR/ethsnarks)
+- [circom by IDEN3](https://github.com/iden3/circom)
+- [snarkJS (Javascript implementation of zkSNARKs)](https://github.com/iden3/snarkjs)
 
 ### Scaling the prover
 
